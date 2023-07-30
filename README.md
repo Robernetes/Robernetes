@@ -41,6 +41,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
  <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <code><img width="10%" src="https://worldvectorlogo.com/logo/kotlin-2"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
@@ -65,7 +66,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Robernetes/Robernetes.svg" />
 </p>
 
-## Support me
+
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
