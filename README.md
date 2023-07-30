@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Your title -->
-## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
+## Hi, I'm Roberto Aguilar, an information systems engineering student..
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -41,8 +41,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
  <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
+  <code><img width="10%" src=""></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
