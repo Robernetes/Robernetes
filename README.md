@@ -42,7 +42,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
  <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <code><img width="10%" src="https://worldvectorlogo.com/logo/kotlin-2"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
